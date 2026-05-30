@@ -20,9 +20,9 @@ Currently, I combine my solid enterprise backend foundations with active researc
 *   🍳 **[Cuinatelia](https://github.com/alpepasAI/cuinatelia) — Smart Multimodal Recipe Extractor**
     *   *Description:* A mobile-first Progressive Web App (PWA) that automatically extracts and structures recipes from web URLs, voice notes, screenshots, or camera video capture using LLM integrations.
     *   *Tech Stack:* React, TailwindCSS, Supabase Database, Postgres RLS, Multimodal LLM APIs.
-*   🎮 **[InFunIt](https://github.com/alpepasAI/infunit) — Offline Local Multi-Device Android Game**
-    *   *Description:* A native Android application for local social games that operates completely offline. It establishes direct multi-device communication using TCP sockets over Wi-Fi Direct and Bluetooth.
-    *   *Tech Stack:* Android SDK (Java), TCP Sockets, Local Networking, Golden Testing.
+*   🎮 **[InFunIt](https://github.com/alpepasAI/infunit) — Offline Local Multi-Device Mobile Game**
+    *   *Description:* A mobile application (Android/iOS) for local social games that operates completely offline. It establishes direct multi-device communication using TCP sockets over Wi-Fi Direct and Bluetooth.
+    *   *Tech Stack:* Flutter (Dart), TCP Sockets, Local Networking, Golden Testing.
 *   📝 **[Prisma](https://github.com/alpepasAI/prisma) — Agentic Technical Blog Generator**
     *   *Description:* A lightweight blog platform built with vanilla ES6 JavaScript (zero external framework dependencies) that leverages AI agents to automatically generate multiformat technical posts optimized for SEO.
     *   *Tech Stack:* Vanilla JavaScript (ES6), HTML5/CSS3 Semantic layout, LLM API integration.
@@ -76,9 +76,9 @@ Actualmente, combino mi sólida base en backend corporativo con la investigació
 *   🍳 **[Cuinatelia](https://github.com/alpepasAI/cuinatelia) — Extractor Multimodal Inteligente de Recetas**
     *   *Descripción:* Progressive Web App (PWA) mobile-first que extrae y estructura recetas automáticamente a partir de URLs, notas de voz, capturas de pantalla o vídeo en vivo mediante integraciones de LLM.
     *   *Stack:* React, TailwindCSS, Supabase Database, Postgres RLS, APIs de LLM Multimodales.
-*   🎮 **[InFunIt](https://github.com/alpepasAI/infunit) — Juego Android Multidispositivo Local Sin Conexión**
-    *   *Descripción:* Aplicación nativa Android para juegos sociales presenciales que funciona 100% sin internet, mediante comunicación directa por sockets TCP sobre Wi-Fi Direct y Bluetooth.
-    *   *Stack:* Android SDK (Java), Sockets TCP, Red Local, Golden Testing.
+*   🎮 **[InFunIt](https://github.com/alpepasAI/infunit) — Juego Móvil Multidispositivo Local Sin Conexión**
+    *   *Descripción:* Aplicación móvil (Android/iOS) para juegos sociales presenciales que funciona 100% sin internet, mediante comunicación directa por sockets TCP sobre Wi-Fi Direct y Bluetooth.
+    *   *Stack:* Flutter (Dart), Sockets TCP, Red Local, Golden Testing.
 *   📝 **[Prisma](https://github.com/alpepasAI/prisma) — Generador Agéntico de Blogs Técnicos**
     *   *Descripción:* Plataforma ligera de blog técnico construida en JavaScript ES6 nativo (sin dependencias de frameworks) que emplea agentes de IA para la generación automática de posts multiformato optimizados para SEO.
     *   *Stack:* Vanilla JavaScript (ES6), Maquetación semántica HTML5/CSS3, integración de APIs de LLM.
@@ -103,7 +103,7 @@ Actualmente, combino mi sólida base en backend corporativo con la investigació
 ![](https://img.shields.io/badge/Linux_/_UNIX-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 💼 Competencias Clave en la Empresa
-*   **IT Application Ownership (ITAO):** Cumplimiento regulatorio, estándares de seguridad IT y auditorías físicas/lógicas.
+*   **IT Application Ownership (ITAO):** Cumplimiento regulatorio, estándares de seguridad IT y auditorías.
 *   **Soporte de Producción (L3):** Resolución de incidencias de alta prioridad, análisis de causa raíz y monitorización de flujos Batch.
 *   **Gestión de Despliegues y Configuración (Release):** Instalaciones, sincronización de entornos y coordinación de infraestructura.
 *   **Metodologías Ágiles:** Colaboración activa en equipos Scrum.
